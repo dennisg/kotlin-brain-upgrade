@@ -1,0 +1,8 @@
+rootProject.name = 'kotlin'
+
+
+include ':basics'
+include ':classes'
+include ':lambdas'
+include ':coroutines'
+
